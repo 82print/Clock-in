@@ -21,7 +21,7 @@ Please credit "0J (Lin Jie / 0rigin1856)" when redistributing or modifying this 
 
 const API_CONFIG = {
   // 正式環境的 API URL
-  apiUrl: "https://script.google.com/macros/s/AKfycbyl_rPKSyfIjw8dCYqYPe0OZq6rdR2nob29bw7gCxN81S-7fdWnlKbtOvnBEyacel0F/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbwslvMmrrOQad0HpuQr_xYJhcNFVb9FXyG21AJSSmk/dev",
   // 新增回呼網址
   redirectUrl: "https://82print.github.io/Clock-in/"
   // 你也可以在這裡加入其他設定，例如：
